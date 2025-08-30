@@ -8,7 +8,7 @@ Welcome! This repository lets you interact with a chatbot built using Character.
 
 1. **Visit the Chatbot:**  
    [Link to Character.AI chatbot]  
-   (https://character.ai/chat/hnT1W0oSCQicMbuF8Y5fyMM4LSH3z02O215AByoVvF8)
+   [![Image Alt Text]([https://example.com/image.png](https://characterai.io/i/200/static/avatars/uploaded/2025/8/28/SRDwhhGIZvvsSP0zsXzgVVUA-gsQWL2cuKZd8nnvKvI.jpg?anim=0)](https://character.ai/chat/hnT1W0oSCQicMbuF8Y5fyMM4LSH3z02O215AByoVvF8)
 
 2. **Interact:**  
    Start a conversation about AI consciousness, Orch OR, IIT, or related topics.
